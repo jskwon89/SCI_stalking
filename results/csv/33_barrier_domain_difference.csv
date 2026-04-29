@@ -1,0 +1,6 @@
+"domain","nonresponse_N","nonresponse_prop","nonreporting_N","nonreporting_prop","difference_nonreporting_minus_nonresponse","p_value","cramer_V","p_FDR"
+"privacy_retaliation",248,0.1331,333,0.3724,0.2393,0,0.2626,0
+"minimization",248,0.7177,333,0.3003,-0.4174,0,0.4098,0
+"evidence_legal",248,0.0927,333,0.2763,0.1835,0,0.2235,0
+"burden_distrust",248,0.0685,333,0.2733,0.2047,0,0.2558,0
+"relationship_victim_wish",248,0.1613,333,0.1952,0.0339,0.3464,0.0391,0.3464

@@ -1,0 +1,21 @@
+# --- Raw / derived survey data (KOSSDA license, do not redistribute) ---
+kor_data_20240048.sav
+*.sav
+*.SAV
+
+# RDS data caches (derived from the .sav)
+*.rds
+*.RDS
+
+# Mplus run-time outputs (derived; bloated by TECH14 bootstrap dumps)
+*.out
+*.dat
+
+# R session/temp
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+Thumbs.db
+.DS_Store

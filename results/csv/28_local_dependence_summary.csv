@@ -1,0 +1,12 @@
+item1,label1,item2,label2,pair,n_pair,BVR,p_value,p_FDR,FDR_flag,max_abs_std_resid,sensitivity_response,manuscript_use
+Q40_2,Persuade,Q41_2,Escalation,Q40_2 (Persuade) x Q41_2 (Escalation),501,17.951,2.27e-5,0.00206,TRUE,2.751,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Report in local-dependence supplemental table and mention in limitations
+Q40_3,Job/school exit,Q41_3,Others harmed,Q40_3 (Job/school exit) x Q41_3 (Others harmed),501,13.364,2.56e-4,0.0117,TRUE,2.62,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Report in local-dependence supplemental table and mention in limitations
+Q41_2,Escalation,Q41_5,Daily disruption,Q41_2 (Escalation) x Q41_5 (Daily disruption),501,9.954,0.00161,0.0487,TRUE,2.071,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Report in local-dependence supplemental table and mention in limitations
+Q41_3,Others harmed,Q41_5,Daily disruption,Q41_3 (Others harmed) x Q41_5 (Daily disruption),501,8.05,0.00455,0.082,FALSE,1.928,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Supplemental diagnostic only
+Q40_7,Police,Q41_2,Escalation,Q40_7 (Police) x Q41_2 (Escalation),501,7.832,0.00513,0.082,FALSE,2.035,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Supplemental diagnostic only
+Q40_1,Confront,Q41_2,Escalation,Q40_1 (Confront) x Q41_2 (Escalation),501,7.738,0.00541,0.082,FALSE,1.896,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Supplemental diagnostic only
+Q40_4,Shelter/move,Q41_3,Others harmed,Q40_4 (Shelter/move) x Q41_3 (Others harmed),501,7.362,0.00666,0.0866,FALSE,2.085,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Supplemental diagnostic only
+Q40_5,School/work help,Q41_3,Others harmed,Q40_5 (School/work help) x Q41_3 (Others harmed),501,7.049,0.00793,0.0902,FALSE,2.041,Addressed by pruned-trigger LCA removing Q41_2 and Q41_3,Supplemental diagnostic only
+Q40_2,Persuade,Q40_3,Job/school exit,Q40_2 (Persuade) x Q40_3 (Job/school exit),501,5.247,0.022,0.222,FALSE,1.667,Reported as residual local dependence; retained for theoretical coherence,Supplemental diagnostic only
+Q40_4,Shelter/move,Q40_6,Network help,Q40_4 (Shelter/move) x Q40_6 (Network help),501,4.702,0.0301,0.274,FALSE,1.658,Reported as residual local dependence; retained for theoretical coherence,Supplemental diagnostic only
+Q40_4,Shelter/move,Q41_5,Daily disruption,Q40_4 (Shelter/move) x Q41_5 (Daily disruption),501,4.133,0.042,0.348,FALSE,1.61,Reported as residual local dependence; retained for theoretical coherence,Supplemental diagnostic only

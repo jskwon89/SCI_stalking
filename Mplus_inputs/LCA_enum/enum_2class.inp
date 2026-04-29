@@ -1,0 +1,20 @@
+TITLE: Responder LCA k=2 enumeration with TECH11 and TECH14;
+DATA: FILE = "lca_enum_data.dat";
+VARIABLE:
+  NAMES = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6 owd dch q42p rpol2 supw spol;
+  USEVARIABLES = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  CATEGORICAL = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  CLASSES = c(2);
+  MISSING = ALL(-999);
+ANALYSIS:
+  TYPE = MIXTURE;
+  STARTS = 1000 200;
+  STITERATIONS = 20;
+  LRTSTARTS = 0 0 200 50;
+  PROCESSORS = 4;
+OUTPUT:
+  TECH1 TECH8 TECH11 TECH14;
+SAVEDATA:
+  FILE = enum_2class.dat;
+  SAVE = CPROBABILITIES;
+

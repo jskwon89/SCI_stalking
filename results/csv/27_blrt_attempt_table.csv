@@ -1,0 +1,7 @@
+"attempt","K","output_file","terminated_normally","best_ll_replicated","BLRT_p","successful_bootstrap_draws","has_lrt_block","retained_as_primary_criterion","note"
+"primary_Mplus7_TECH14",2,"D:/2026/SCI/Stalking/advanced_reproducible/Mplus_LCA_enum/enum_2class.out",TRUE,TRUE,0,5,TRUE,FALSE,"Unstable: successful bootstrap draws < 30."
+"primary_Mplus7_TECH14",3,"D:/2026/SCI/Stalking/advanced_reproducible/Mplus_LCA_enum/enum_3class.out",TRUE,TRUE,0,5,TRUE,FALSE,"Unstable: successful bootstrap draws < 30."
+"primary_Mplus7_TECH14",4,"D:/2026/SCI/Stalking/advanced_reproducible/Mplus_LCA_enum/enum_4class.out",TRUE,TRUE,0,10,TRUE,FALSE,"Unstable: successful bootstrap draws < 30."
+"primary_Mplus7_TECH14",5,"D:/2026/SCI/Stalking/advanced_reproducible/Mplus_LCA_enum/enum_5class.out",TRUE,TRUE,0,10,TRUE,FALSE,"Unstable: successful bootstrap draws < 30."
+"primary_Mplus7_TECH14",6,"D:/2026/SCI/Stalking/advanced_reproducible/Mplus_LCA_enum/enum_6class.out",TRUE,TRUE,0,20,TRUE,FALSE,"Unstable: successful bootstrap draws < 30."
+"high_LRTSTARTS_Mplus7_TECH14",NA,"D:/2026/SCI/Stalking/advanced_reproducible/Mplus_LCA_enum_BLRT",NA,NA,NA,NA,NA,FALSE,"No usable TECH14/BLRT output found for this attempt."

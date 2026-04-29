@@ -1,0 +1,33 @@
+
+TITLE: Responder-only 5-class LCA with R3STEP covariates;
+DATA:
+  FILE = responder_lca_5class_r3step.dat;
+VARIABLE:
+  NAMES =
+    q401 q402 q403 q404 q405 q406 q407 q408
+    q411 q412 q413 q414 q415 q416
+    stedu dig offcnt freqz intimate severe
+    mythz fearz crimez victimz supportz;
+  USEVARIABLES =
+    q401 q402 q403 q404 q405 q406 q407 q408
+    q411 q412 q413 q414 q415 q416;
+  CATEGORICAL =
+    q401 q402 q403 q404 q405 q406 q407 q408
+    q411 q412 q413 q414 q415 q416;
+  CLASSES = c(5);
+  AUXILIARY =
+    stedu(R3STEP) dig(R3STEP) offcnt(R3STEP) freqz(R3STEP)
+    intimate(R3STEP) severe(R3STEP) mythz(R3STEP) fearz(R3STEP)
+    crimez(R3STEP) victimz(R3STEP) supportz(R3STEP);
+  MISSING = ALL(-999);
+ANALYSIS:
+  TYPE = MIXTURE;
+  STARTS = 2000 500;
+  STITERATIONS = 20;
+  PROCESSORS = 4;
+OUTPUT:
+  TECH1 TECH11;
+SAVEDATA:
+  FILE = responder_lca_5class_r3step_cprob.dat;
+  SAVE = CPROB;
+

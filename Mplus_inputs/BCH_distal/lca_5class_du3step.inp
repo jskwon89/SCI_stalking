@@ -1,0 +1,18 @@
+TITLE: 5-class LCA with AUXILIARY DU3STEP for distal outcomes;
+DATA: FILE = "lca_bch_data.dat";
+VARIABLE:
+  NAMES = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6 owd dch q42p rpol2 supw spol;
+  USEVARIABLES = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  CATEGORICAL = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  CLASSES = c(5);
+  AUXILIARY =
+    owd(DU3STEP) dch(DU3STEP) q42p(DU3STEP) rpol2(DU3STEP) supw(DU3STEP) spol(DU3STEP);
+  MISSING = ALL(-999);
+ANALYSIS:
+  TYPE = MIXTURE;
+  STARTS = 1000 200;
+  STITERATIONS = 20;
+  PROCESSORS = 4;
+OUTPUT:
+  TECH1;
+

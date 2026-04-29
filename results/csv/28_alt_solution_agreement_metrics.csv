@@ -1,0 +1,3 @@
+comparison,n,cramer_V,ARI,ARI_interpretation,manuscript_interpretation
+Primary 5-class vs Q40-only K=4,501,0.329,0.072,limited agreement,Behavior-only K=4 shows whether broad action axes remain visible without trigger items; not a replacement primary solution
+Primary 5-class vs pruned-trigger K=3,501,0.713,0.27,limited agreement,Pruned K=3 is a parsimonious local-dependence sensitivity; useful to show what is collapsed when trigger pairs are removed

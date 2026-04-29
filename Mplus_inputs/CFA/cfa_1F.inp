@@ -1,0 +1,20 @@
+TITLE: CFA 1F (WLSMV, categorical)
+DATA: FILE = "cfa_data.dat";
+VARIABLE:
+  NAMES = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  USEVARIABLES = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  CATEGORICAL = a1 a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  MISSING = ALL(-999);
+ANALYSIS:
+  ESTIMATOR = WLSMV;
+  PARAMETERIZATION = THETA;
+MODEL:
+  F BY a1* a2 a3 a4 a5 a6 a7 a8 b1 b2 b3 b4 b5 b6;
+  F@1;
+
+OUTPUT:
+  STDYX MODINDICES(10) RESIDUAL TECH4;
+SAVEDATA:
+  FILE = cfa_1F_fs.dat;
+  SAVE = FSCORES;
+

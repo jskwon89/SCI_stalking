@@ -1,0 +1,141 @@
+"class5","class5_label","n","distal","mean_or_prop"
+"C1","Network-oriented prevention responders",73,"role_confront_top2",0.150684931506849
+"C1","Network-oriented prevention responders",73,"role_police_top2",0.452054794520548
+"C1","Network-oriented prevention responders",73,"role_schoolwork_top2",0.287671232876712
+"C1","Network-oriented prevention responders",73,"role_network_top2",0.328767123287671
+"C1","Network-oriented prevention responders",73,"role_agency_info_top2",0.136986301369863
+"C1","Network-oriented prevention responders",73,"role_punishment_top2",0.246575342465753
+"C1","Network-oriented prevention responders",73,"role_victim_support_top2",0.397260273972603
+"C1","Network-oriented prevention responders",73,"edu_legal_top2",0.383561643835616
+"C1","Network-oriented prevention responders",73,"edu_schoolwork_top2",0.424657534246575
+"C1","Network-oriented prevention responders",73,"edu_help_info_top2",0.561643835616438
+"C1","Network-oriented prevention responders",73,"edu_humanrights_top2",0.273972602739726
+"C1","Network-oriented prevention responders",73,"edu_bystander_role_top2",0.356164383561644
+"C1","Network-oriented prevention responders",73,"seoul_service_use_count",3.53424657534247
+"C1","Network-oriented prevention responders",73,"seoul_service_use_any",0.726027397260274
+"C1","Network-oriented prevention responders",73,"seoul_digital_center_yes",0.575342465753425
+"C1","Network-oriented prevention responders",73,"support_service_use_count",3.86301369863014
+"C1","Network-oriented prevention responders",73,"support_service_use_any",0.684931506849315
+"C1","Network-oriented prevention responders",73,"support_digital_center_yes",0.575342465753425
+"C1","Network-oriented prevention responders",73,"policy_police_protection_top3",0.671232876712329
+"C1","Network-oriented prevention responders",73,"policy_punishment_top3",0.726027397260274
+"C1","Network-oriented prevention responders",73,"policy_perp_treatment_top3",0.219178082191781
+"C1","Network-oriented prevention responders",73,"policy_secondary_harm_top3",0.205479452054795
+"C1","Network-oriented prevention responders",73,"policy_victim_support_top3",0.287671232876712
+"C1","Network-oriented prevention responders",73,"policy_online_delete_top3",0.0821917808219178
+"C1","Network-oriented prevention responders",73,"policy_school_education_top3",0.191780821917808
+"C1","Network-oriented prevention responders",73,"policy_workplace_protocol_top3",0.26027397260274
+"C1","Network-oriented prevention responders",73,"policy_safe_environment_top3",0.26027397260274
+"C1","Network-oriented prevention responders",73,"policy_public_campaign_top3",0.0958904109589041
+"C2","Escalation-aware mixed responders",146,"role_confront_top2",0.171232876712329
+"C2","Escalation-aware mixed responders",146,"role_police_top2",0.36986301369863
+"C2","Escalation-aware mixed responders",146,"role_schoolwork_top2",0.404109589041096
+"C2","Escalation-aware mixed responders",146,"role_network_top2",0.458904109589041
+"C2","Escalation-aware mixed responders",146,"role_agency_info_top2",0.23972602739726
+"C2","Escalation-aware mixed responders",146,"role_punishment_top2",0.219178082191781
+"C2","Escalation-aware mixed responders",146,"role_victim_support_top2",0.123287671232877
+"C2","Escalation-aware mixed responders",146,"edu_legal_top2",0.315068493150685
+"C2","Escalation-aware mixed responders",146,"edu_schoolwork_top2",0.513698630136986
+"C2","Escalation-aware mixed responders",146,"edu_help_info_top2",0.657534246575342
+"C2","Escalation-aware mixed responders",146,"edu_humanrights_top2",0.315068493150685
+"C2","Escalation-aware mixed responders",146,"edu_bystander_role_top2",0.198630136986301
+"C2","Escalation-aware mixed responders",146,"seoul_service_use_count",3.38356164383562
+"C2","Escalation-aware mixed responders",146,"seoul_service_use_any",0.76027397260274
+"C2","Escalation-aware mixed responders",146,"seoul_digital_center_yes",0.568493150684932
+"C2","Escalation-aware mixed responders",146,"support_service_use_count",3.5958904109589
+"C2","Escalation-aware mixed responders",146,"support_service_use_any",0.719178082191781
+"C2","Escalation-aware mixed responders",146,"support_digital_center_yes",0.513698630136986
+"C2","Escalation-aware mixed responders",146,"policy_police_protection_top3",0.376712328767123
+"C2","Escalation-aware mixed responders",146,"policy_punishment_top3",0.554794520547945
+"C2","Escalation-aware mixed responders",146,"policy_perp_treatment_top3",0.246575342465753
+"C2","Escalation-aware mixed responders",146,"policy_secondary_harm_top3",0.452054794520548
+"C2","Escalation-aware mixed responders",146,"policy_victim_support_top3",0.383561643835616
+"C2","Escalation-aware mixed responders",146,"policy_online_delete_top3",0.26027397260274
+"C2","Escalation-aware mixed responders",146,"policy_school_education_top3",0.198630136986301
+"C2","Escalation-aware mixed responders",146,"policy_workplace_protocol_top3",0.280821917808219
+"C2","Escalation-aware mixed responders",146,"policy_safe_environment_top3",0.198630136986301
+"C2","Escalation-aware mixed responders",146,"policy_public_campaign_top3",0.0479452054794521
+"C3","Life-threat protective responders",96,"role_confront_top2",0.145833333333333
+"C3","Life-threat protective responders",96,"role_police_top2",0.46875
+"C3","Life-threat protective responders",96,"role_schoolwork_top2",0.489583333333333
+"C3","Life-threat protective responders",96,"role_network_top2",0.34375
+"C3","Life-threat protective responders",96,"role_agency_info_top2",0.302083333333333
+"C3","Life-threat protective responders",96,"role_punishment_top2",0.208333333333333
+"C3","Life-threat protective responders",96,"role_victim_support_top2",0.0416666666666667
+"C3","Life-threat protective responders",96,"edu_legal_top2",0.260416666666667
+"C3","Life-threat protective responders",96,"edu_schoolwork_top2",0.53125
+"C3","Life-threat protective responders",96,"edu_help_info_top2",0.604166666666667
+"C3","Life-threat protective responders",96,"edu_humanrights_top2",0.447916666666667
+"C3","Life-threat protective responders",96,"edu_bystander_role_top2",0.15625
+"C3","Life-threat protective responders",96,"seoul_service_use_count",3.19791666666667
+"C3","Life-threat protective responders",96,"seoul_service_use_any",0.791666666666667
+"C3","Life-threat protective responders",96,"seoul_digital_center_yes",0.614583333333333
+"C3","Life-threat protective responders",96,"support_service_use_count",3.84375
+"C3","Life-threat protective responders",96,"support_service_use_any",0.770833333333333
+"C3","Life-threat protective responders",96,"support_digital_center_yes",0.5625
+"C3","Life-threat protective responders",96,"policy_police_protection_top3",0.3125
+"C3","Life-threat protective responders",96,"policy_punishment_top3",0.385416666666667
+"C3","Life-threat protective responders",96,"policy_perp_treatment_top3",0.40625
+"C3","Life-threat protective responders",96,"policy_secondary_harm_top3",0.354166666666667
+"C3","Life-threat protective responders",96,"policy_victim_support_top3",0.322916666666667
+"C3","Life-threat protective responders",96,"policy_online_delete_top3",0.40625
+"C3","Life-threat protective responders",96,"policy_school_education_top3",0.270833333333333
+"C3","Life-threat protective responders",96,"policy_workplace_protocol_top3",0.260416666666667
+"C3","Life-threat protective responders",96,"policy_safe_environment_top3",0.21875
+"C3","Life-threat protective responders",96,"policy_public_campaign_top3",0.0625
+"C4","Boundary-clarification persuaders",110,"role_confront_top2",0.4
+"C4","Boundary-clarification persuaders",110,"role_police_top2",0.545454545454545
+"C4","Boundary-clarification persuaders",110,"role_schoolwork_top2",0.272727272727273
+"C4","Boundary-clarification persuaders",110,"role_network_top2",0.254545454545455
+"C4","Boundary-clarification persuaders",110,"role_agency_info_top2",0.245454545454545
+"C4","Boundary-clarification persuaders",110,"role_punishment_top2",0.145454545454545
+"C4","Boundary-clarification persuaders",110,"role_victim_support_top2",0.136363636363636
+"C4","Boundary-clarification persuaders",110,"edu_legal_top2",0.545454545454545
+"C4","Boundary-clarification persuaders",110,"edu_schoolwork_top2",0.409090909090909
+"C4","Boundary-clarification persuaders",110,"edu_help_info_top2",0.645454545454546
+"C4","Boundary-clarification persuaders",110,"edu_humanrights_top2",0.245454545454545
+"C4","Boundary-clarification persuaders",110,"edu_bystander_role_top2",0.154545454545455
+"C4","Boundary-clarification persuaders",110,"seoul_service_use_count",3.1
+"C4","Boundary-clarification persuaders",110,"seoul_service_use_any",0.727272727272727
+"C4","Boundary-clarification persuaders",110,"seoul_digital_center_yes",0.509090909090909
+"C4","Boundary-clarification persuaders",110,"support_service_use_count",3.51818181818182
+"C4","Boundary-clarification persuaders",110,"support_service_use_any",0.672727272727273
+"C4","Boundary-clarification persuaders",110,"support_digital_center_yes",0.518181818181818
+"C4","Boundary-clarification persuaders",110,"policy_police_protection_top3",0.590909090909091
+"C4","Boundary-clarification persuaders",110,"policy_punishment_top3",0.718181818181818
+"C4","Boundary-clarification persuaders",110,"policy_perp_treatment_top3",0.272727272727273
+"C4","Boundary-clarification persuaders",110,"policy_secondary_harm_top3",0.318181818181818
+"C4","Boundary-clarification persuaders",110,"policy_victim_support_top3",0.254545454545455
+"C4","Boundary-clarification persuaders",110,"policy_online_delete_top3",0.190909090909091
+"C4","Boundary-clarification persuaders",110,"policy_school_education_top3",0.136363636363636
+"C4","Boundary-clarification persuaders",110,"policy_workplace_protocol_top3",0.245454545454545
+"C4","Boundary-clarification persuaders",110,"policy_safe_environment_top3",0.181818181818182
+"C4","Boundary-clarification persuaders",110,"policy_public_campaign_top3",0.0909090909090909
+"C5","Multi-action institutional responders",76,"role_confront_top2",0.184210526315789
+"C5","Multi-action institutional responders",76,"role_police_top2",0.328947368421053
+"C5","Multi-action institutional responders",76,"role_schoolwork_top2",0.407894736842105
+"C5","Multi-action institutional responders",76,"role_network_top2",0.315789473684211
+"C5","Multi-action institutional responders",76,"role_agency_info_top2",0.302631578947368
+"C5","Multi-action institutional responders",76,"role_punishment_top2",0.276315789473684
+"C5","Multi-action institutional responders",76,"role_victim_support_top2",0.184210526315789
+"C5","Multi-action institutional responders",76,"edu_legal_top2",0.342105263157895
+"C5","Multi-action institutional responders",76,"edu_schoolwork_top2",0.421052631578947
+"C5","Multi-action institutional responders",76,"edu_help_info_top2",0.578947368421053
+"C5","Multi-action institutional responders",76,"edu_humanrights_top2",0.328947368421053
+"C5","Multi-action institutional responders",76,"edu_bystander_role_top2",0.328947368421053
+"C5","Multi-action institutional responders",76,"seoul_service_use_count",4.35526315789474
+"C5","Multi-action institutional responders",76,"seoul_service_use_any",0.907894736842105
+"C5","Multi-action institutional responders",76,"seoul_digital_center_yes",0.684210526315789
+"C5","Multi-action institutional responders",76,"support_service_use_count",4.81578947368421
+"C5","Multi-action institutional responders",76,"support_service_use_any",0.828947368421053
+"C5","Multi-action institutional responders",76,"support_digital_center_yes",0.697368421052632
+"C5","Multi-action institutional responders",76,"policy_police_protection_top3",0.513157894736842
+"C5","Multi-action institutional responders",76,"policy_punishment_top3",0.644736842105263
+"C5","Multi-action institutional responders",76,"policy_perp_treatment_top3",0.236842105263158
+"C5","Multi-action institutional responders",76,"policy_secondary_harm_top3",0.276315789473684
+"C5","Multi-action institutional responders",76,"policy_victim_support_top3",0.434210526315789
+"C5","Multi-action institutional responders",76,"policy_online_delete_top3",0.184210526315789
+"C5","Multi-action institutional responders",76,"policy_school_education_top3",0.131578947368421
+"C5","Multi-action institutional responders",76,"policy_workplace_protocol_top3",0.197368421052632
+"C5","Multi-action institutional responders",76,"policy_safe_environment_top3",0.25
+"C5","Multi-action institutional responders",76,"policy_public_campaign_top3",0.131578947368421

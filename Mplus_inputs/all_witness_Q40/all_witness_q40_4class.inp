@@ -1,0 +1,34 @@
+TITLE: All-witness Q40 LCA 4 class;
+
+DATA:
+  FILE IS all_witness_q40.dat;
+
+VARIABLE:
+  NAMES ARE
+    Q40_1 Q40_2 Q40_3 Q40_4 Q40_5 Q40_6 Q40_7
+    Q40_8 Q40_9 female age10 age30 age40 age50
+    age60 college married employed own_victim intimate known_nonint
+    stedu supaware_z dig offcnt freqz;
+  USEVARIABLES ARE
+    Q40_1 Q40_2 Q40_3 Q40_4 Q40_5 Q40_6 Q40_7
+    Q40_8 Q40_9;
+  CATEGORICAL ARE
+    Q40_1 Q40_2 Q40_3 Q40_4 Q40_5 Q40_6 Q40_7
+    Q40_8 Q40_9;
+  CLASSES = c(4);
+  MISSING ARE ALL (-999);
+
+ANALYSIS:
+  TYPE = MIXTURE;
+  STARTS = 1000 250;
+  STITERATIONS = 20;
+  LRTSTARTS = 0 0 200 50;
+  PROCESSORS = 4;
+
+OUTPUT:
+  SAMPSTAT TECH1 TECH10 TECH11 TECH14;
+
+SAVEDATA:
+  FILE IS all_witness_q40_4class.dat;
+  SAVE = CPROBABILITIES;
+

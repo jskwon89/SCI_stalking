@@ -1,0 +1,3 @@
+"comparison","n","cramer_V","ARI","ARI_interpretation"
+"Primary 5-class vs Q40-only 5-class",501,0.322,0.084,"limited agreement"
+"Primary 5-class vs pruned-trigger 5-class",501,0.642,0.365,"limited agreement"

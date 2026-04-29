@@ -1,0 +1,13 @@
+"group","domain","N_valid","n_yes","prop_yes"
+"Non-reporting","burden_distrust",333,91,0.273
+"Non-reporting","evidence_legal",333,92,0.276
+"Non-reporting","minimization",333,100,0.3
+"Non-reporting","privacy_retaliation",333,124,0.372
+"Non-reporting","relationship_victim_wish",333,65,0.195
+"Non-reporting","social_norm_blame",0,0,NA
+"Non-response","burden_distrust",248,17,0.069
+"Non-response","evidence_legal",248,23,0.093
+"Non-response","minimization",248,178,0.718
+"Non-response","privacy_retaliation",248,33,0.133
+"Non-response","relationship_victim_wish",248,40,0.161
+"Non-response","social_norm_blame",248,49,0.198

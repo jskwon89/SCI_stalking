@@ -1,0 +1,79 @@
+"sample","block","variable","N","missing_n","missing_pct","nonmissing_n"
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","q42_police",749,248,33.11,501
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","active_response",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","age_cat",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","cjs_distrust_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","college",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","crime_denial_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","dig",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","disability",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","employed",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","fear_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","female",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","freq_ord_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","gender_awareness_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","gender_hierarchy_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","gendered_case",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","institutional_response",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","intimate",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","known_nonint",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","married",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","offcnt",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","one_person",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","online_withdrawal",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","own_victim",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","q40_police",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","region",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","seoul_policy_awareness_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","severe_coharm",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","stedu",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","stereotype_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","support_awareness_z",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","threat",749,0,0,749
+"Witnesses (N=749)","Stage 1 logistic outcomes/covariates","victim_blaming_z",749,0,0,749
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_1",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_2",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_3",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_4",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_5",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_6",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_7",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q40_8",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q41_1",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q41_2",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q41_3",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q41_4",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q41_5",501,0,0,501
+"Active responders (N=501)","Stage 2 LCA indicators","Q41_6",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","crime_denial_z",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","dig",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","fear_z",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","freq_ord_z",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","intimate",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","myth_z",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","offcnt",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","severe_coharm",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","stedu",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","support_awareness_z",501,0,0,501
+"Active responders (N=501)","Stage 2 R3STEP covariates","victim_blaming_z",501,0,0,501
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_1",333,0,0,333
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_2",333,0,0,333
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_3",333,0,0,333
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_4",333,0,0,333
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_5",333,0,0,333
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_6",333,0,0,333
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_7",333,0,0,333
+"Non-reporting active responders","Stage 3 Q42_2 non-reporting barriers","Q42_2_8",333,0,0,333
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_1",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_10",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_11",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_12",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_13",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_2",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_3",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_4",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_5",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_6",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_7",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_8",248,0,0,248
+"Non-responders (N=248)","Stage 3 Q43 non-response barriers","Q43_9",248,0,0,248

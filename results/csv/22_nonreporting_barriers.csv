@@ -1,0 +1,9 @@
+"item","barrier","n_valid","n_yes","prop_yes"
+"Q42_2_6","Did not think police report was warranted",333,100,0.3003003003003
+"Q42_2_4","No evidence or fear of false-accusation countersuit",333,92,0.276276276276276
+"Q42_2_5","Low expectation of police protection/punishment",333,91,0.273273273273273
+"Q42_2_2","Identity exposure/privacy",333,90,0.27027027027027
+"Q42_2_3","Perpetrator threat/retaliation fear",333,50,0.15015015015015
+"Q42_2_7","Victim did not want legal punishment",333,35,0.105105105105105
+"Q42_2_1","Others discouraged reporting",333,33,0.0990990990990991
+"Q42_2_8","Other",333,8,0.024024024024024

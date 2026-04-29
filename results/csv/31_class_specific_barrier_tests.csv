@@ -1,0 +1,7 @@
+"domain","test","N","statistic","df","p_value","cramer_V","p_FDR"
+"discouraged/victim wish","Pearson chi-square",333,15.159,4,0.0044,0.2134,0.0088
+"privacy/retaliation","Pearson chi-square",333,28.1555,4,0,0.2908,1e-04
+"evidence/legal risk","Pearson chi-square",333,19.7766,4,6e-04,0.2437,0.0017
+"institutional distrust","Pearson chi-square",333,9.9861,4,0.0407,0.1732,0.0488
+"minimization","Pearson chi-square",333,12.1771,4,0.0161,0.1912,0.0241
+"other","Fisher simulated",333,NA,NA,0.6485,0.0863,0.6485

@@ -1,0 +1,31 @@
+"domain","Class_label","std_resid_yes"
+"discouraged/victim wish","C4 Boundary-clarification persuaders",2.827
+"discouraged/victim wish","C2 Escalation-aware mixed responders",-2.724
+"discouraged/victim wish","C5 Multi-action institutional responders",1.783
+"discouraged/victim wish","C3 Life-threat protective responders",-1.26
+"discouraged/victim wish","C1 Network-oriented prevention responders",-0.466
+"evidence/legal risk","C5 Multi-action institutional responders",3.75
+"evidence/legal risk","C3 Life-threat protective responders",1.765
+"evidence/legal risk","C4 Boundary-clarification persuaders",-1.494
+"evidence/legal risk","C2 Escalation-aware mixed responders",-1.447
+"evidence/legal risk","C1 Network-oriented prevention responders",-1.403
+"institutional distrust","C5 Multi-action institutional responders",3.052
+"institutional distrust","C2 Escalation-aware mixed responders",-1.103
+"institutional distrust","C3 Life-threat protective responders",-1.004
+"institutional distrust","C4 Boundary-clarification persuaders",-0.335
+"institutional distrust","C1 Network-oriented prevention responders",0.055
+"minimization","C1 Network-oriented prevention responders",3.051
+"minimization","C2 Escalation-aware mixed responders",-1.793
+"minimization","C3 Life-threat protective responders",-1.069
+"minimization","C4 Boundary-clarification persuaders",0.837
+"minimization","C5 Multi-action institutional responders",-0.74
+"other","C3 Life-threat protective responders",-1.161
+"other","C5 Multi-action institutional responders",1.144
+"other","C2 Escalation-aware mixed responders",0.407
+"other","C4 Boundary-clarification persuaders",-0.242
+"other","C1 Network-oriented prevention responders",-0.133
+"privacy/retaliation","C1 Network-oriented prevention responders",-4.07
+"privacy/retaliation","C3 Life-threat protective responders",3.092
+"privacy/retaliation","C5 Multi-action institutional responders",1.78
+"privacy/retaliation","C4 Boundary-clarification persuaders",-1.689
+"privacy/retaliation","C2 Escalation-aware mixed responders",1.139
