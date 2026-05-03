@@ -1,0 +1,3 @@
+"test","statistic","df","p_value","note"
+"Pearson chi-square",45.3291,16,0.0001235,"min expected = 5.25; 0.0% of cells have expected < 5"
+"Fisher exact (Monte Carlo, B=20000)",NA,NA,0.00015,"Fisher used because some expected cell counts < 5"
